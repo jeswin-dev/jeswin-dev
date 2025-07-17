@@ -5,7 +5,7 @@ I'm a Full Stack Engineer with 4+ years of experience building scalable, distrib
 - 🔧 Tech I use: Go, React, TypeScript, Python, Docker, AWS, Kubernetes
 - 🏗️ Major contributor in building and maintaining AP/O2C Automation product suite by Nanonets
 - ⚙️ Love clean code, performance tuning, and infrastructure as code
-- 🌐 Portfolio: [jeswineldho.com](https://jeswineldho.com)
+- 🌐 Namespace: [jeswineldho.com](https://jeswineldho.com)
 
 Let’s build cool stuff → [jeswineldho@gmail.com](mailto:jeswineldho@gmail.com)
 
