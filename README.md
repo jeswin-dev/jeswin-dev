@@ -8,7 +8,3 @@ I'm a Full Stack Engineer with 5 years of experience building scalable, distribu
 - 🌐 Namespace: [jeswineldho.com](https://jeswineldho.com)
 
 Let’s build cool stuff → [jeswineldho@gmail.com](mailto:jeswineldho@gmail.com)
-
-Just my dev.to profile card. Looked cool to me 😛
-
-<a href="https://app.daily.dev/jeswineldho"><img src="./devcard.png" width="356" alt="Jeswin Eldho's Dev Card"/></a>
